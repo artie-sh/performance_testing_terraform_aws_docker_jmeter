@@ -1,0 +1,6 @@
+*.output
+*.tfstate
+qa_load_keypair*
+.terraform
+ssh.exe.stackdump
+.DS_Store
