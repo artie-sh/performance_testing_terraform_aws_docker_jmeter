@@ -1,0 +1,6 @@
+*.output
+*.tfstate*
+.terraform
+.DS_Store
+qa_load_keypair*
+*.jtl
